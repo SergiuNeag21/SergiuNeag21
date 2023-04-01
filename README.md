@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sergiu Neag</h1>
 <h3 align="center">Highly motivated and resultsdriven individual with a passion for programming.</h3>
 
-- 📫 How to reach me **sergiuneag123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **sergiuneag123@gmail.com**
 <p align="left">
 </p>
 
