@@ -1,3 +1,4 @@
+[![MasterHead](https://www.wallpaperflare.com/minimalism-4k-for-mac-desktop-wallpaper-tzymg)](https://sergiuneag21.io)
 <h1 align="center">Hi 👋, I'm Sergiu Neag</h1>
 <h3 align="center">Highly motivated and resultsdriven individual with a passion for programming.</h3>
 
