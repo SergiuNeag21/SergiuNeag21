@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergiu Neag</h1>
 <h3 align="center">Highly motivated and resultsdriven individual with a passion for programming.</h3>
-img align="right" alt="Coding" width="400" src="https://www.lumenci.com/post/videocoding"
+<img align="right" alt="Coding" width="400" src="https://www.lumenci.com/post/videocoding">
 
 - 📫 How to reach me **sergiuneag123@gmail.com**
 
