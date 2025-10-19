@@ -1,6 +1,6 @@
 ![logo](https://github.com/SergiuNeag21/SergiuNeag21/blob/main/BannerGitHub.jpg)
 <h1 align="center">Hi 👋, I'm Sergiu Neag</h1>
-<h3 align="center">Highly motivated and resultsdriven individual with a passion for programming.</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 📫 How to reach me **sergiuneag123@gmail.com**
 
